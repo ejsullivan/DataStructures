@@ -1,8 +1,8 @@
 // Eric Sullivan
 // Fall 2016
 
-#include "ListNode.h"
 #include <iostream>
+#include "ListNode.h"
 
 using namespace std;
 
